@@ -12,9 +12,8 @@ At each step in time, the following rules are applied:
       
 This implementation uses POO, although it is not required, because it is a very interesting feature of C++, along other languages.  The user defines initial parameters about the grid (game board) and cells, and then using a graphical interface places the live cells and observes its evolution.
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-![Alt Text](https://github.com/RdeBiotec/Game_of_Life/blob/master/GAME.gif?raw=true)
-![Alt Text](https://github.com/RdeBiotec/Game_of_Life/raw/master/GAME.gif)
+![An example](https://github.com/RdeBiotec/Game_of_Life/raw/master/GAME.gif)
+
 ## Getting Started
 
 The program has been designed for LINUX systems. For others, it has to be adapted. Previous execution, please install all required libraries, specially OpenGl and GLUT.
