@@ -26,7 +26,7 @@ It is easy to use. You just have to compile, build, execute and follow the instr
 
 ## License
 
-This project is licensed under the GNU General Public License v.3.0 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License v.3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
