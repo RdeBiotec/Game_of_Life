@@ -11,7 +11,7 @@ At each step in time, the following rules are applied:
 3. Any live cell with more than three live neighbours dies, as if by overpopulation.
 4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
       
-This implementation uses POO, although it is not required, because it is a very interesting feature of C++, along other languages.  The user defines initial parameters about the grid (game board) and cells, and then using a graphical interface places the live cells and observes its evolution.
+This implementation uses OOP, although it is not required, because it is a very interesting feature of C++, along other languages.  The user defines initial parameters about the grid (game board) and cells, and then using a graphical interface places the live cells and observes its evolution.
 
 ![An example](https://github.com/RdeBiotec/Game_of_Life/raw/master/GAME.gif)
 
