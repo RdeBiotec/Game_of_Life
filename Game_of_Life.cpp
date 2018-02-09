@@ -12,7 +12,7 @@
 
 /*****************************************************
   * OVERVIEW:
-  * The present programme is an implementation in C++ and OpenGl of the denominated Game of Life, designed by the British mathematician John Horton Conway.
+  * The present programme is an implementation in C++ and OpenGl of the denominated Game of Life, a cellular automaton designed by the British mathematician John Horton Conway.
   * It is a zero-player game; its evolution is determined by its initial state, requiring no further input. 
   * One interacts with the Game of Life by creating an initial configuration and observing how it evolves or by creating patterns with particular properties. 
   * The universe of the Game of Life is a two-dimensional orthogonal grid of square cells, each of which is in one of two possible states, 
